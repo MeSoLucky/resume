@@ -1,3 +1,3 @@
 /*
-$("#main").append([Ethan Jordan]);
+$("#header").append([Ethan Jordan]);
  */
